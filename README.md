@@ -20,7 +20,7 @@ This is a fashion MNIST dataset analysis performed by team Pull & Bear :smiley:
 ## Problem description
 Fashion MNIST dataset is a set of 70000 28x28 images of clothes.
 
-![dataset sample](./images/fashion_mnist_3.0.1)
+![dataset sample](./images/fashion_mnist_3.0.1.png)
 
 Our main goals:
 * Create a neural network that correctly classifies which cloth type are we dealing with :smirk:
@@ -29,12 +29,12 @@ Our main goals:
 
 ## Loss graph
 
-![loss](./images/loss)
+![loss](./images/loss.png)
 
 We can see here that our CNN improves drastically over 1st epoch, we could reduce number of epochs and save computational time!
 
 ## Result we got
 
-![result](./images/result)
+![result](./images/result.png)
 
 Which is a whopping 95% accuracy!
